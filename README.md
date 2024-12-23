@@ -1,5 +1,5 @@
-<h1 align="left">Hey there👋</h1>
-<p align="left">My name is Nikita Obrekht and I'm an Android Developer at Seven Winds Studio.</p>
+<h1 align="left">Hey there👋, I'm Nikita Obrekht</h1>
+<p align="left">Android Developer at Seven Winds Studio.</p>
 <h2 align="left">About me</h2>
 <p align="left">✨ Professionally developing apps since 2023<br>📚 I'm currently learning how to create cross-platform applications using KMP</p>
 <h2 align="left">Languages and Tools</h2>
