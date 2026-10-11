@@ -11,7 +11,9 @@ I build Android apps with Kotlin and Jetpack Compose. Currently exploring Kotlin
 ### Languages and Tools
 
 <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,gradle,sqlite" alt="Kotlin, Java, Android Studio, Gradle, SQLite" height="40" />
+<img src="icons/compose.svg" alt="Jetpack Compose" title="Jetpack Compose" height="40" />
+<img src="icons/kmp.svg" alt="Kotlin Multiplatform" title="Kotlin Multiplatform" height="40" />
 
-Jetpack Compose · Kotlin Multiplatform · Coroutines / Flow · Ktor · Room · LLM · MCP · RAG
+Coroutines / Flow · Ktor · Room · LLM · MCP · RAG
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StrixG&layout=compact&hide_border=true&bg_color=00000000&title_color=7F52FF&text_color=888888&langs_count=6" alt="Top languages" height="150" />
