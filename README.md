@@ -2,7 +2,7 @@
 
 Android Developer · Kaliningrad
 
-I build Android apps with Kotlin and Jetpack Compose. Currently exploring Kotlin Multiplatform and AI agents: MCP, RAG, local LLMs.
+I build Android apps with Kotlin and Jetpack Compose. Currently exploring Kotlin Multiplatform and AI agents.
 
 [![obrekht.com](https://img.shields.io/badge/obrekht.com-3DDC84?style=flat)](https://obrekht.com)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/obrekht)
