@@ -19,5 +19,3 @@ I build Android apps with Kotlin and Jetpack Compose. Currently exploring Kotlin
 <a href="https://kotlinlang.org/multiplatform/"><img src="icons/kmp.svg" alt="Kotlin Multiplatform" title="Kotlin Multiplatform" height="40" /></a>
 
 Coroutines / Flow · Ktor · Room · LLM · MCP · RAG
-
-<img src="profile/top-langs.svg" alt="Top languages" height="150" />
