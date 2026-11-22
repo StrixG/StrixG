@@ -1,8 +1,8 @@
 ## Hey there 👋, I'm Nikita Obrekht
 
-Android Developer · Kaliningrad
+Mobile Engineer · Kaliningrad
 
-I build Android apps with Kotlin and Jetpack Compose. Currently exploring Kotlin Multiplatform and AI agents.
+Building apps for Android and iOS with Kotlin, Kotlin Multiplatform, Jetpack Compose, Swift and SwiftUI. Integrating AI agents into mobile experiences.
 
 [![obrekht.com](https://img.shields.io/badge/obrekht.com-3DDC84?style=flat)](https://obrekht.com)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/obrekht)
@@ -11,11 +11,12 @@ I build Android apps with Kotlin and Jetpack Compose. Currently exploring Kotlin
 ### Languages and Tools
 
 <a href="https://kotlinlang.org"><img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" title="Kotlin" height="40" /></a>
+<a href="https://www.swift.org"><img src="https://skillicons.dev/icons?i=swift" alt="Swift" title="Swift" height="40" /></a>
 <a href="https://dev.java"><img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" height="40" /></a>
+<a href="https://kotlinlang.org/multiplatform/"><img src="icons/kmp.svg" alt="Kotlin Multiplatform" title="Kotlin Multiplatform" height="40" /></a>
+<a href="https://developer.android.com/compose"><img src="icons/compose.svg" alt="Jetpack Compose" title="Jetpack Compose" height="40" /></a>
 <a href="https://developer.android.com/studio"><img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" title="Android Studio" height="40" /></a>
 <a href="https://gradle.org"><img src="https://skillicons.dev/icons?i=gradle" alt="Gradle" title="Gradle" height="40" /></a>
-<a href="https://www.sqlite.org"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" title="SQLite" height="40" /></a>
-<a href="https://developer.android.com/compose"><img src="icons/compose.svg" alt="Jetpack Compose" title="Jetpack Compose" height="40" /></a>
-<a href="https://kotlinlang.org/multiplatform/"><img src="icons/kmp.svg" alt="Kotlin Multiplatform" title="Kotlin Multiplatform" height="40" /></a>
+<a href="https://www.sqlite.org"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" title="SQLite" height="40" /></a
 
-Coroutines / Flow · Ktor · Room · LLM · MCP · RAG
+Coroutines / Flow · Ktor · Room · LLM
