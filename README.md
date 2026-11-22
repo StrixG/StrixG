@@ -17,6 +17,6 @@ Building apps for Android and iOS with Kotlin, Kotlin Multiplatform, Jetpack Com
 <a href="https://developer.android.com/compose"><img src="icons/compose.svg" alt="Jetpack Compose" title="Jetpack Compose" height="40" /></a>
 <a href="https://developer.android.com/studio"><img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" title="Android Studio" height="40" /></a>
 <a href="https://gradle.org"><img src="https://skillicons.dev/icons?i=gradle" alt="Gradle" title="Gradle" height="40" /></a>
-<a href="https://www.sqlite.org"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" title="SQLite" height="40" /></a
+<a href="https://www.sqlite.org"><img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" title="SQLite" height="40" /></a>
 
 Coroutines / Flow · Ktor · Room · LLM
